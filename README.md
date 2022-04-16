@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-[![C](https://img.shields.io/badge/C-#A8B9CC?style=flat-square&logo=C&logoColor=#A8B9CC)](https://github.com/ch0515/CodingTest)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 -->
