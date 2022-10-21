@@ -1,3 +1,8 @@
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=welcome%20to%20my%20githyb%20page!;)](https://git.io/typing-svg)
+
+</p>
 <img src = "https://capsule-render.vercel.app/api?type=Cylinder&color=F5F0BB&height=200&section=header&text=chaemin's%20Github&fontSize=70&animation=fadeIn"/>
 
 #
@@ -35,5 +40,5 @@
 
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ch0515&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch0515&langs_count=8show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/ch0515/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
