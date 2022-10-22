@@ -2,7 +2,7 @@
 <img src = "https://capsule-render.vercel.app/api?type=Cylinder&color=F5F0BB&height=200&section=header&text=chaemin's%20Github&fontSize=70&animation=fadeIn"/>
 
 #
-☺️info
+👻info
    
 <p align="center">
 <a href="https://velog.io/@jscm5100"><img src="https://img.shields.io/badge/Velog-F05138?style=social&logo=Velog&logoColor=#20C997"/></a>
