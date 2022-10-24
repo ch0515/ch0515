@@ -27,13 +27,13 @@
 💻Tool
 
 <p align="center">
-<img src="https://img.shields.io/badge/IntelliJ IDEA-C4DFAA?style=flat&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio-C4DFAA?style=flat&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio Code-C4DFAA?style=flat&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ IDEA-C4DFAA?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio-C4DFAA?style=flat&logo=Visual Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-C4DFAA?style=flat&logo=Visual Studio Code&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Eclipse IDE-C4DFAA?style=flat&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android Studio-C4DFAA?style=flat&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Atom-C4DFAA?style=flat&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse IDE-C4DFAA?style=flat&logo=Eclipse IDE&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android Studio-C4DFAA?style=flat&logo=Android Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Atom-C4DFAA?style=flat&logo=Atom&logoColor=white"/>
 </p>
 
 #
