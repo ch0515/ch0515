@@ -1,16 +1,15 @@
 　　　　　　　　　　　　　　　　　　　[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=☁️welcome%20to%20my%20github%20page!☁️;)](https://git.io/typing-svg)
 <img src = "https://capsule-render.vercel.app/api?type=Cylinder&color=F5F0BB&height=200&section=header&text=chaemin's%20Github&fontSize=70&animation=fadeIn"/>
-
-#
+<p align="center">
 👻info
-   
+ </p>
 <p align="center">
 <a href="https://velog.io/@jscm5100"><img src="https://img.shields.io/badge/Velog-F05138?style=social&logo=Velog&logoColor=#20C997"/></a>
 </p>
-
-#
+<hr/>
+<p align="center">
 📖Skills
-
+ </p>
 <p align="center">
 <img src="https://img.shields.io/badge/C-C4DFAA?style=flat&logo=C&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JavaScript-C4DFAA?style=flat&logo=JavaScript&logoColor=white"/> 
@@ -22,10 +21,10 @@
 <img src="https://img.shields.io/badge/HTML5-C4DFAA?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-C4DFAA?style=flat&logo=MySQL&logoColor=white"/>
 </p>
-
-#
+<hr/>
+<p align="center">
 💻Tool
-
+ </p>
 <p align="center">
 <img src="https://img.shields.io/badge/IntelliJ IDEA-C4DFAA?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio-C4DFAA?style=flat&logo=Visual Studio&logoColor=white"/>
