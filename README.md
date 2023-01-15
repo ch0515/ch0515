@@ -37,6 +37,7 @@
 <img src="https://img.shields.io/badge/Android Studio-C4DFAA?style=flat&logo=Android Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Atom-C4DFAA?style=flat&logo=Atom&logoColor=white"/>
 </p>
-
+#
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ch0515&show_icons=true&theme=radical)
 
 
