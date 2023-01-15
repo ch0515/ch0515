@@ -38,7 +38,5 @@
 <img src="https://img.shields.io/badge/Atom-C4DFAA?style=flat&logo=Atom&logoColor=white"/>
 </p>
 
-#
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ch0515&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch0515&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
