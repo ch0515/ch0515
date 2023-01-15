@@ -42,6 +42,7 @@
 #
 <h3 align="center">
  
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ch0515&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch0515&layout=compact&theme=dracula)
 
 
