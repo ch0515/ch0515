@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=header)
 
-               [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=☁️welcome%20to%20my%20github%20page!☁️;)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=☁️welcome%20to%20my%20github%20page!☁️;)
 
 #
 <h3 align="center">
@@ -40,4 +40,4 @@
 <img src="https://img.shields.io/badge/Atom-C4DFAA?style=flat&logo=Atom&logoColor=white"/>
 </p>
 
-
+![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=footer)
