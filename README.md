@@ -39,4 +39,3 @@
 <img src="https://img.shields.io/badge/Atom-C4DFAA?style=flat&logo=Atom&logoColor=white"/>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=footer)
