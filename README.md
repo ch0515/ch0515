@@ -1,4 +1,6 @@
-　　　　　　　　　　　　　　　　　　　[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=☁️welcome%20to%20my%20github%20page!☁️;)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+               [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=☁️welcome%20to%20my%20github%20page!☁️;)](https://git.io/typing-svg)
 
 #
 <h3 align="center">
