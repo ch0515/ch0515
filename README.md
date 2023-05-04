@@ -1,5 +1,5 @@
 
-　　　　　　　　　　　　　　　![Typing SVG](https://readme-typing-svg.demolab.com/?lines=☁️welcome%20to%20my%20github%20page!☁️;)
+　　　　　　　　　　　　　　　\\<!--![Typing SVG](https://readme-typing-svg.demolab.com/?lines=☁️welcome%20to%20my%20github%20page!☁️;)-->
 
 #
 <h3 align="center">
