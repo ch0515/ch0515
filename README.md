@@ -2,12 +2,12 @@
 　　　　　　　　　　　　　　　<!--[Typing SVG](https://readme-typing-svg.demolab.com/?lines=☁️welcome%20to%20my%20github%20page!☁️;)-->
 
 
-<h3 align="center">
+<!--<h3 align="center">
 👻info
  </h3>
 <p align="center">
 <a href="https://velog.io/@chmin90285"><img src="https://img.shields.io/badge/Velog-F05138?style=social&logo=Velog&logoColor=#20C997"/></a>
-</p>
+</p>-->
 
 #
 <h3 align="center">
