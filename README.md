@@ -42,4 +42,4 @@
 </p>
 
 #
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ch0515)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch0515&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
