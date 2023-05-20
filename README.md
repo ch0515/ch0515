@@ -5,7 +5,7 @@
 👻info
  </h3>
 <p align="center">
-<a href="(https://www.instagram.com/cxaennin/)"><img src="https://img.shields.io/badge/instagram-E4405F?style=social&logo=instagram&logoColor=**#20C997**"/></a>
+<a href="https://www.instagram.com/cxaennin/"><img src="https://img.shields.io/badge/instagram-E4405F?style=social&logo=instagram&logoColor=**#20C997**"/></a>
   <a href="(https://www.gmail.com/hycoals90285/)"><img src="https://img.shields.io/badge/gmail-**E4405F**?style=social&logo=gmail&logoColor=****#20C997****"/></a>
   <a href="https://velog.io/@chmin90285"><img src="https://img.shields.io/badge/Velog-F05138?style=social&logo=Velog&logoColor=#20C997"/></a>
 </p>
