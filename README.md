@@ -1,5 +1,4 @@
-
-　　　　　　　　　　　　　　　<!--[Typing SVG](https://readme-typing-svg.demolab.com/?lines=☁️welcome%20to%20my%20github%20page!☁️;)-->
+![header](https://capsule-render.vercel.app/api?type=Wave&height=200&color=C4DFAA&text=Hi!%20I'm%20Chaemin!&fontAlign=40)
 
 
 <!--<h3 align="center">
