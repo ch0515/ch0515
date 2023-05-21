@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=B5D9B4&text=Hi!%20I'm%20Chaemin!&fontAlign=40)
+![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=B5D9B4&text=Hi!%20I'm%20Chaemin!&fontAlign=40&fontColor=8C8C8C)
 
 #
 <h3 align="center">
